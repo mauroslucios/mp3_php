@@ -1,0 +1,13 @@
+body{
+    font-family: 'Poppins',
+    sans-serif;
+}
+.capa_album{
+    max-width: 100%;
+}
+.album{
+    margin: 10px auto;
+}
+.album a:link{
+    text-decoration: none;
+}
