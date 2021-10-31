@@ -1,5 +1,5 @@
-<h1>Álbum</h1>
-<a href="?page=new_album" class="btn btn-info">Novo álbum</a>
+<h1>Listagem dos gêneros</h1>
+<a href="?page=new_album" class="btn btn-info">Criar novo gênero</a>
 <div class="row">
     <?php
     $albums = getAlbums();
